@@ -17,7 +17,6 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
 
 Alternatively, you can download the ZIP file and extract it to a directory.
 1. Navigate to the project directory:
-    ```bash
     cd <project_directory>
 2. Install dependencies
 
