@@ -48,6 +48,6 @@ The CSS styles are organized and provide a visually appealing layout.
 
 ## Conclusion
 
-Thank you for your interest in [Project Name]. We hope you find it useful and valuable for your needs. If you have any questions, feedback, or suggestions, please don't hesitate to reach out.
+Thank you for your interest in Simplified ERP System with React. We hope you find it useful and valuable for your needs. If you have any questions, feedback, or suggestions, please don't hesitate to reach out.
 
      
