@@ -19,9 +19,7 @@ Alternatively, you can download the ZIP file and extract it to a directory.
 1. Navigate to the project directory:
     ```bash
     cd <project_directory>
-2.Install dependencies: 
- ```bash
- npm install
+2.Install dependencies
 
 ## Running the Application
 1. After the installation, start the development server by running: 
